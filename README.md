@@ -45,7 +45,7 @@ REQUISITOS DESEJÁVEIS
 
 Equipe:
 
-Ana Carolina Vaz (https://www.linkedin.com/in/carolina-costa-vaz/)
+Ana Carolina Vaz (https://www.linkedin.com/in/carolina-costa-vaz/) 
 Clarissa Souza (https://www.linkedin.com/in/clarissasouza950)
 Guilherme Machado (https://www.linkedin.com/in/smguilherme/)
 Paulo Leal (https://www.linkedin.com/in/paulo-roberto-silva-leal)
