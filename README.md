@@ -46,7 +46,10 @@ REQUISITOS DESEJÁVEIS
 Equipe:
 
 Ana Carolina Vaz
+
 Clarissa Souza (https://www.linkedin.com/in/clarissasouza950)
+
 Guilherme 
+
 Paulo 
 
