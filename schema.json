@@ -1,0 +1,27 @@
+{
+ "BigQuery Schema": [{
+   "name": "UF",
+   "type": "STRING"
+  },
+  {
+   "name": "a_2016",
+   "type": "STRING"
+  },
+  {
+   "name": "a_2017",
+   "type": "STRING"
+  },
+  {
+   "name": "a_2018",
+   "type": "STRING"
+  },
+  {
+   "name": "a_2019",
+   "type": "STRING"
+  },
+  {
+   "name": "a_2020",
+   "type": "STRING"
+  }
+]
+}
